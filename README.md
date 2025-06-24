@@ -1,16 +1,18 @@
 # Shreehari R Acharya
 
-- **Location:** Bangalore, India
-- **GitHub:** [Shreehari-Acharya](https://github.com/Shreehari-Acharya)
-- **LinkedIn:** [Shreehari Acharya](https://www.linkedin.com/in/shreehari-acharya/)
-- **X/Twitter:** [06_Shreehari](https://x.com/06_Shreehari)
-- **Email:** shreehari.acharya.06@gmail.com
+- [**shreehari.dev**](https://shreehari.dev)
+- [**X/Twitter**](https://x.com/06_Shreehari)
+- [**LinkedIn**](https://www.linkedin.com/in/shreehari-acharya/)
+- **Contact** hi@shreehari.dev
 
 ---
 
 ## About Me
 
-I’m a Full Stack Developer with experience building scalable web applications using technologies like Next.js and the MERN stack. I enjoy working on AI-integrated tools, streamlining user experiences, and following DevOps practices to build reliable and efficient systems.
+I love forging products. Its not just building, but continuously shaping, learning, and refining along the way. Just like a blacksmith who forges a sword!
+Most of what I know comes from working on real projects, breaking stuff, fixing it, and getting better with each attempt.
+
+Still learning. Still forging.
 
 ---
 
@@ -22,21 +24,14 @@ _Feb 2025 – Apr 2025_
 - Managed AWS resources for secure course storage, video streaming, and hosting.  
 - Tech Stack: Next.js, TypeScript, PostgreSQL (Prisma ORM), Nginx, AWS (S3, EC2, CloudFront)
 
----
-
-## Education
-
-**Reva University** – Bachelor of Computer Applications  
-_Aug 2024 – Jul 2027 | Bangalore, Karnataka_  
-
----
-
 ## Projects
 
-**Exalyte** (In Progress)  
-- Quiz management system aimed at improving the assessment process.  
-- Integrates AI for generating and reviewing Q&A to enhance accuracy and efficiency.  
-- Focused on delivering a user-friendly and intuitive experience.
+**Ranked - Real-time DSA Battle Platform** 
+- Designed and implemented the backend, including APIs for matchmaking, code submission, judging, result processing, and rating updates.
+- Set up and integrated Judge0 (an open-source code execution engine) in an AWS EC2 instance to evaluate user-submitted code in real-time.
+- Utilized Redis for implementing a real-time matchmaking queue and leaderboard, using data structures like Sorted Sets for performance-critical ranking operations.
+- Developed helper modules for player management, leaderboard, and rating logic, ensuring clean separation of concerns and extensibility.
+- [Project Link](https://ranked-80.vercel.app/)
 
 **Dhidvara**  
 - AI-powered terminal emulator using Electron and React.  
@@ -48,12 +43,19 @@ _Aug 2024 – Jul 2027 | Bangalore, Karnataka_
 
 ## Skills
 
-**Technologies:** MERN Stack, Next.js, PostgreSQL, MongoDB, TypeScript, Git, AWS (S3, EC2, CloudFront), Nginx  
-**Other Skills:** Fullstack Development, Gen-AI (Learning aggresively), UI/UX, Problem Solving, Basic DevOps, Linux
+**Technologies:** MERN Stack, Next.js, PostgreSQL, MongoDB, TypeScript, Git, AWS (S3, EC2, CloudFront), Nginx, Redis  
+**Other Skills:** Basic DevOps, Linux
+
+---
+
+## Education
+
+**Reva University** – Bachelor of Computer Applications  
+_Aug 2024 – Jul 2027 | Bangalore, Karnataka_  
 
 ---
 
 ## Interests
 
-Designing, playing chess, writing blogs on [hashnode](https://shreehari-06.hashnode.dev/), and exploring AI .
+Designing, playing chess, writing blogs on [hashnode](https://shreehari-06.hashnode.dev/), and trying to build some agentic tools.
 
