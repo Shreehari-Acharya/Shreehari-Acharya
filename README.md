@@ -1,9 +1,12 @@
 # Shreehari R Acharya
 
 - [**shreehari.dev**](https://shreehari.dev)
+- [**hi@shreehari.dev**](mailto:hi@shreehari.dev)
+
 - [**X/Twitter**](https://x.com/06_Shreehari)
+- [**Peerlist.io**](https://peerlist.io/shreehari06)
 - [**LinkedIn**](https://www.linkedin.com/in/shreehari-acharya/)
-- **Contact** hi@shreehari.dev
+
 
 ---
 
@@ -26,24 +29,19 @@ _Feb 2025 – Apr 2025_
 
 ## Projects
 
-**Ranked - Real-time DSA Battle Platform** 
-- Designed and implemented the backend, including APIs for matchmaking, code submission, judging, result processing, and rating updates.
-- Set up and integrated Judge0 (an open-source code execution engine) in an AWS EC2 instance to evaluate user-submitted code in real-time.
-- Utilized Redis for implementing a real-time matchmaking queue and leaderboard, using data structures like Sorted Sets for performance-critical ranking operations.
-- Developed helper modules for player management, leaderboard, and rating logic, ensuring clean separation of concerns and extensibility.
-- [Project Link](https://ranked-80.vercel.app/)
-
-**Dhidvara**  
-- AI-powered terminal emulator using Electron and React.  
-- Features AI command suggestions and @-based task automation.  
-- Custom UI with support for AI ghost text and PTY handling.  
-- [Project Link](https://dhidvara.vercel.app/)
+| Name | Description | GitHub | Live Link |
+|---|---|---|---|
+| **Code Collab** | A GitHub Codespace alternative, code and test in a cloud-based IDE free from distractions. | [Repository](Code Collab is a web-based development environment that allows users to create, manage, and work on projects in isolated Docker-based workspaces. It provides a file explorer, a code editor, and a terminal for a seamless development experience.) | [Live](https://code-collab.shreehari.dev) |
+| **Infinity Comments** | A minimalistic social media like X. Users can post and reply to comments in real time. With caching and optimizations for better performance. | [Repository](https://github.com/Shreehari-Acharya/Infinity-comments) | - |
+| **ForceTrack - Codeforces Analytics Dashboard** | An analytics dashboard that tracks Codeforces performance, contest history, and problem-solving activity of a set of Codeforces handles. | [Repository](https://github.com/Shreehari-Acharya/ForceTrack) | - |
+| **Ranked - DSA Battles** | A competitive coding platform that matches users in real-time 1v1 DSA battles. | [Repository](https://github.com/Shreehari-Acharya/Ranked) | [Live](https://ranked-80.vercel.app) |
+| **Dhidvara - AI Terminal** | A warp-like terminal that gives command suggestions and executes commands using AI. | [Repository](https://github.com/Shreehari-Acharya/Dhidvara) | [Live](https://dhidvara.vercel.app) |
 
 ---
 
 ## Skills
 
-**Technologies:** MERN Stack, Next.js, PostgreSQL, MongoDB, TypeScript, Git, AWS (S3, EC2, CloudFront), Nginx, Redis  
+**Technologies:** MERN Stack, Nest.js, Next.js, PostgreSQL, MongoDB, TypeScript, Git, AWS (S3, EC2, CloudFront), Nginx, Redis  
 **Other Skills:** Basic DevOps, Linux
 
 ---
@@ -53,9 +51,6 @@ _Feb 2025 – Apr 2025_
 **Reva University** – Bachelor of Computer Applications  
 _Aug 2024 – Jul 2027 | Bangalore, Karnataka_  
 
----
 
-## Interests
 
-Designing, playing chess, writing blogs on [hashnode](https://shreehari-06.hashnode.dev/), and trying to build some agentic tools.
 
