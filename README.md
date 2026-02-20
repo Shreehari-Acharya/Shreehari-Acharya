@@ -1,40 +1,49 @@
 # Shreehari R Acharya
-
-- [**shreehari.dev**](https://shreehari.dev)
-- [**hi@shreehari.dev**](mailto:hi@shreehari.dev)
-
-- [**X/Twitter**](https://x.com/06_Shreehari)
-- [**Peerlist.io**](https://peerlist.io/shreehari06)
-- [**LinkedIn**](https://www.linkedin.com/in/shreehari-acharya/)
-
-
----
-
-## About Me
 Most of what I know comes from working on real projects, breaking stuff, fixing it, and getting better with each attempt.
-
 Still learning. Still building.
-
----
 
 ## Projects
 
-| Name | Description | GitHub | Live Link |
-|---|---|---|---|
-| **Code Collab** | A GitHub Codespace alternative, code and test in a cloud-based IDE free from distractions. | [Repository](https://github.com/Shreehari-Acharya/code-collab) | - |
-| **Infinity Comments** | A minimalistic social media like X. Users can post and reply to comments in real time. With caching and optimizations for better performance. | [Repository](https://github.com/Shreehari-Acharya/Infinity-comments) | - |
-| **ForceTrack - Codeforces Analytics Dashboard** | An analytics dashboard that tracks Codeforces performance, contest history, and problem-solving activity of a set of Codeforces handles. | [Repository](https://github.com/Shreehari-Acharya/ForceTrack) | - |
-| **Ranked - DSA Battles** | A competitive coding platform that matches users in real-time 1v1 DSA battles. | [Repository](https://github.com/Shreehari-Acharya/Ranked) | - |
-| **Dhidvara - AI Terminal** | A warp-like terminal that gives command suggestions and executes commands using AI. | [Repository](https://github.com/Shreehari-Acharya/Dhidvara) | - |
+### Developer Tools & AI
 
----
+* **[Vayuu](https://github.com/Shreehari-Acharya/Vayuu)** — Minimalist local AI agent accessed via Telegram for easy interaction. 
+* **[Arche](https://github.com/Shreehari-Acharya/Arche)** — A Mobile app helping you learn concepts by creating roadmaps, curating resources and asking you quizzes.
+* **[code-collab](https://github.com/Shreehari-Acharya/code-collab)** — A cloud-based IDE (inspired by GitHub Codespaces) that lets you code and preview projects in the browser.
+* **[Dhidvara](https://github.com/Shreehari-Acharya/Dhidvara)** — AI-powered terminal assistant that augments your CLI with smart suggestions and command execution help. 
 
-## Skills
 
-**Technologies:** MERN Stack, Nest.js, Next.js, PostgreSQL, MongoDB, TypeScript, Git, AWS (S3, EC2, CloudFront), Nginx, Redis  
-**Other Skills:** Basic DevOps, Linux
+### Web & Platforms
 
----
+* **[Infinity-comments](https://github.com/Shreehari-Acharya/Infinity-comments)** — Real-time scalable nested comments system with performance optimizations. 
+* **[Ranked](https://github.com/Shreehari-Acharya/Ranked)** — Competitive coding platform enabling real-time 1v1 DSA battles. 
+* **[ForceTrack](https://github.com/Shreehari-Acharya/ForceTrack)** — Analytics dashboard for tracking Codeforces handles and performance over time.
+
+
+### Learning & Core Systems
+
+* **[OSTEP-Notes](https://github.com/Shreehari-Acharya/OSTEP-Notes)** — Notes and solutions based on *Operating Systems: Three Easy Pieces*.
+* **[assembly-101](https://github.com/Shreehari-Acharya/assembly-101)** — Low-level programming experiments and fundamentals in assembly. 
+* **[Simple-Deep-Learning](https://github.com/Shreehari-Acharya/Simple-Deep-Learning)** — Hands-on deep learning practice and notebooks. 
+
+
+## Tech Stack
+
+- **Languages:** TypeScript, JavaScript, Go
+- **Frontend:** React, Next.js, TailwindCSS
+- **Backend:** Node.js, Express, NestJS
+- **Databases:** PostgreSQL, MongoDB
+- **Tools:** Docker, Git, Redis
+
+(These reflect the common tech choices across my repos.)
+
+
+## My Socials
+
+* Website: [https://shreehari.dev](https://shreehari.dev)
+* GitHub: [https://github.com/Shreehari-Acharya](https://github.com/Shreehari-Acharya)
+* Twitter: [@06_Shreehari](https://x.com/06_Shreehari)
+* LinkedIn: [shreehari-acharya](https://www.linkedin.com/in/shreehari-acharya/)
+
 
 ## Education
 
