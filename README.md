@@ -6,6 +6,7 @@ Still learning. Still building.
 
 ### Developer Tools & AI
 
+* **[Sarvamai-go](https://github.com/Shreehari-Acharya/sarvamai-go)** — An unofficial SDK for sarvamai, enabling seamless integration of sarvamai's capabilities into your Go applications.
 * **[Vayuu](https://github.com/Shreehari-Acharya/Vayuu)** — Minimalist local AI agent accessed via Telegram for easy interaction. 
 * **[Arche](https://github.com/Shreehari-Acharya/Arche)** — A Mobile app helping you learn concepts by creating roadmaps, curating resources and asking you quizzes.
 * **[code-collab](https://github.com/Shreehari-Acharya/code-collab)** — A cloud-based IDE (inspired by GitHub Codespaces) that lets you code and preview projects in the browser.
