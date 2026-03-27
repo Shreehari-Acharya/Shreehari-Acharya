@@ -1,6 +1,6 @@
 # Shreehari R Acharya
 
-Interested in building scalable systems, developer tooling, and real-world applications.
+Building scalable systems, developer tooling, and real-world applications.
 
 I work with Go and TypeScript to design and build real-world applications — from AI-powered tools and mobile apps to container-based development environments. My focus is on writing clean, scalable systems and understanding how things work end-to-end.
 
